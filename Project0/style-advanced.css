@@ -1,0 +1,63 @@
+#head {
+  background-color: rgb(245, 243, 243);
+  height: auto;
+  margin: 0px;
+  padding: 13px;
+}
+body {
+  font-family: arial, sans-serif;
+}
+
+input {
+  width: 300px;
+  padding: 5px;
+  font-size: 15px;
+  outline: none;
+  margin: 8px;
+}
+
+#forms {
+  margin: 20px;
+  padding: 20px;
+}
+
+h1 {
+  color: rgb(223, 62, 62);
+  font-size: 20px;
+  margin-left: 35px;
+  margin-top: 30px;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+div {
+  margin-left: 35px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+#find {
+  font-size: 17px;
+  font-family: sans-serif;
+}
+
+button {
+  background-color: #4788ef;
+  color: white;
+  height: 30px;
+  font-size: 12px;
+  outline: 0px;
+  border: blue;
+  border-radius: 3px;
+  margin-left: 470px;
+}
+
+div #main {
+  text-decoration: none;
+  padding: 10px;
+  text-align: right;
+}
+
+#main:hover {
+  text-decoration: underline;
+}
